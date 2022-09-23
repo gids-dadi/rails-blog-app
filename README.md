@@ -20,6 +20,7 @@ run rails server
 Author
 
 👤 **Gideon Dadi**
+
 -Linkedin [@GideonDadi](https://www.linkedin.com/feed/)<br>
 -GitHub: [@gids_dadi](https://github.com/gids-dadi)<br>
 -Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
