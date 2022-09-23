@@ -1,23 +1,27 @@
-##Blog App
-This project is a simple blog app that allow user to SignUp, Login and write some posts.
+# rails-blog-app
 
-##Built With
-Ruby
-Rails
+> The Blog app is a classic example of a blog website. I created a fully functional website that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
 
-##Prerequisites
-A code editor (like Atom, VScode...)
-You need to have ruby and rails installed in order to run this App
 
-##Getting Started
+## Built With
+- Rails
+- Ruby
+- Postgress
+
+## Live Demo (if available)
+
+
+## Getting Started
+
 To get a local copy up and running follow these simple example steps.
-Copy this link `https://github.com/gids-dadi/rails-blog-app`.
-git clone `https://github.com/gids-dadi/rails-blog-app`
-cd rails-blog-app
-run bundle install
-run rails server
+### Setup
+ **clone this [repo](https://github.com/gids-dadi/rails-blog-app)**
+### Install
 
-Author
+**Install Ruby**
+**Install Rails**
+
+## Authors
 
 👤 **Gideon Dadi**
 
@@ -25,18 +29,24 @@ Author
 -GitHub: [@gids_dadi](https://github.com/gids-dadi)<br>
 -Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
 
-Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/camilevahviraki/Blog-app. This project is intended to be a safe, welcoming space for collaboration, and contributors are welcome. Fill free to reach us or contact in the issue page.
+## 🤝 Contributing
 
-Show your support
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/udeaghad/rails-blog-app/issues/).
+
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
