@@ -26,6 +26,7 @@ Author
 -Twitter: [@Dadi_AG](https://twitter.com/Dadi_AG)
 
 Contributing
+
 Bug reports and pull requests are welcome on GitHub at https://github.com/camilevahviraki/Blog-app. This project is intended to be a safe, welcoming space for collaboration, and contributors are welcome. Fill free to reach us or contact in the issue page.
 
 Show your support
