@@ -1,7 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe Post, type: :model do
-  post1 = Post.new
   it 'is not valid without a title' do
     post = Post.new(user_id: 13, title: nil, text: 'My fourth post on rails')
     expect(post).to_not be_valid
